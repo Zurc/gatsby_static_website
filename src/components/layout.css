@@ -5,6 +5,8 @@ html {
 }
 body {
   margin: 0;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
 }
 article,
 aside,
@@ -41,7 +43,7 @@ a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
   color: #333;
-  text-decoration: none;
+  /* text-decoration: none; */
 }
 a:active,
 a:hover {
@@ -385,6 +387,9 @@ p {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
+  font-size: 1.3rem;
+  line-height: 1.6;
+  color: rgba(0,0,0,0.84);
 }
 figure {
   margin-left: 0;
