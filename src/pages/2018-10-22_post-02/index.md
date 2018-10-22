@@ -91,3 +91,5 @@ setInterval(() => {
 }, 2 * 60 * 60 * 1000)  // break every two hours
 
 ```
+
+If you are interested you can grab/see the [code from github](https://github.com/Zurc/node-breaktime)
