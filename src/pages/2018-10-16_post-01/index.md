@@ -1,5 +1,5 @@
 ---
-path: "/post-one"
+path: "/post-01"
 date: "2018-10-16"
 title: "React - Techniques to decompose components"
 author: "Cruz"
